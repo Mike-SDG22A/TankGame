@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class ParticleDespawn : MonoBehaviour
 {
-    float particleTtl = 3;
+    float particleTtl = 1;
 
     void Update()
     {

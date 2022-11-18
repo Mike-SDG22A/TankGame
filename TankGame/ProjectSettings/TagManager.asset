@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Timer
+  - Player1
+  - Bullet
+  - CollisionRight
+  - CollisionLeft
+  - CamCanMove
   layers:
   - Default
   - TransparentFX

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 304d28fbe1ed0064e8fe18f2bfaacc72
+guid: 92ec9c0d6e6dcc646bb40fc5276667ea
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -49,7 +49,7 @@ TextureImporter:
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spriteGenerateFallbackPhysicsShape: 0
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
@@ -117,49 +117,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: TileSet_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 64
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 046babd1757ddbf479d5ea096153e716
-      internalID: -1284727782
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TileSet_1
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 64
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 188c1fcf68f4c2c4a9069f0384a9e47e
-      internalID: 1328224473
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TileSet_2
+      name: Background wall_0
       rect:
         serializedVersion: 2
         x: 0
@@ -173,14 +131,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5650eeebcca63214ca4710a9620ffd2a
-      internalID: -1011511353
+      spriteID: 7c4609d7122563042a0ce487c7bdac6c
+      internalID: -431187988
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TileSet_3
+      name: Background wall_1
       rect:
         serializedVersion: 2
         x: 32
@@ -194,14 +152,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a516c42ffefd7b243bf32ab006fa2255
-      internalID: -1101798398
+      spriteID: df10bdf02a80bca43bb1a9db17be0a00
+      internalID: -1220374163
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TileSet_4
+      name: Background wall_2
       rect:
         serializedVersion: 2
         x: 0
@@ -215,14 +173,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 52e66fb0fd250ee47a8dfd1989faac17
-      internalID: 2077461
+      spriteID: 607c05f27bb4a104c8e7341fff3b21d6
+      internalID: -81684758
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TileSet_5
+      name: Background wall_3
       rect:
         serializedVersion: 2
         x: 32
@@ -236,8 +194,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6983cf20d73d69b4d8a4aee7881c78da
-      internalID: 1137872522
+      spriteID: ed02c3edecbe44e44a5e1d9dcb031b96
+      internalID: 900268384
       vertices: []
       indices: 
       edges: []
@@ -253,12 +211,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      TileSet_3: -1101798398
-      TileSet_5: 1137872522
-      TileSet_1: 1328224473
-      TileSet_2: -1011511353
-      TileSet_0: -1284727782
-      TileSet_4: 2077461
+      Background wall_2: -81684758
+      Background wall_1: -1220374163
+      Background wall_3: 900268384
+      Background wall_0: -431187988
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

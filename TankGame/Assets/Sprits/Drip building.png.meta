@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 304d28fbe1ed0064e8fe18f2bfaacc72
+guid: 3353d76a0cb4ed240892973d26076034
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -47,7 +47,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 32
+  spritePixelsToUnits: 128
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -117,13 +117,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: TileSet_0
+      name: Drip building_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 64
-        width: 32
-        height: 32
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -131,20 +131,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 046babd1757ddbf479d5ea096153e716
-      internalID: -1284727782
+      spriteID: 58b74c54f90dd884fac66ef7d406412d
+      internalID: 1664262680
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TileSet_1
+      name: Drip building_1
       rect:
         serializedVersion: 2
-        x: 32
-        y: 64
-        width: 32
-        height: 32
+        x: 128
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -152,20 +152,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 188c1fcf68f4c2c4a9069f0384a9e47e
-      internalID: 1328224473
+      spriteID: 223f30db557fea2438bc7bbc2f5df180
+      internalID: -1066469550
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TileSet_2
+      name: Drip building_2
       rect:
         serializedVersion: 2
         x: 0
-        y: 32
-        width: 32
-        height: 32
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -173,20 +173,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5650eeebcca63214ca4710a9620ffd2a
-      internalID: -1011511353
+      spriteID: 07e7f0dd5fbfade48bea359bd1275bc8
+      internalID: 1460397560
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TileSet_3
+      name: Drip building_3
       rect:
         serializedVersion: 2
-        x: 32
-        y: 32
-        width: 32
-        height: 32
+        x: 128
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -194,20 +194,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a516c42ffefd7b243bf32ab006fa2255
-      internalID: -1101798398
+      spriteID: 470a4ac7dd26d2f40be326d4832d96a8
+      internalID: 1980722025
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TileSet_4
+      name: Drip building_4
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 32
-        height: 32
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -215,20 +215,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 52e66fb0fd250ee47a8dfd1989faac17
-      internalID: 2077461
+      spriteID: 7943305eff04b9e4fa28e6aa8eebed06
+      internalID: 766250759
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TileSet_5
+      name: Drip building_5
       rect:
         serializedVersion: 2
-        x: 32
+        x: 128
         y: 0
-        width: 32
-        height: 32
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -236,8 +236,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6983cf20d73d69b4d8a4aee7881c78da
-      internalID: 1137872522
+      spriteID: a4e751c34c17c12498452f399f8a5b72
+      internalID: -1465229726
       vertices: []
       indices: 
       edges: []
@@ -253,12 +253,12 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      TileSet_3: -1101798398
-      TileSet_5: 1137872522
-      TileSet_1: 1328224473
-      TileSet_2: -1011511353
-      TileSet_0: -1284727782
-      TileSet_4: 2077461
+      Drip building_5: -1465229726
+      Drip building_1: -1066469550
+      Drip building_4: 766250759
+      Drip building_3: 1980722025
+      Drip building_0: 1664262680
+      Drip building_2: 1460397560
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
