@@ -22,7 +22,7 @@ public class CameraScript : MonoBehaviour
         {
             transform.Translate(Vector2.left * 10 * Time.deltaTime);
         }
-        transform.position = new Vector3(Mathf.Clamp(transform.position.x, 1.8f, 100f), transform.position.y, transform.position.z);
+        transform.position = new Vector3(Mathf.Clamp(transform.position.x, -0.85f, 100f), transform.position.y, transform.position.z);
 
     }
    
